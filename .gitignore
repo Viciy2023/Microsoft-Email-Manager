@@ -2,3 +2,5 @@
 __pycache__
 accounts.json
 .DS_Store
+.claude/settings.local.json
+huggingface/env.example

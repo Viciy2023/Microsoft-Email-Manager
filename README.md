@@ -1,3 +1,12 @@
+---
+title: Microsoft-Email-Manager
+emoji: 📧
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 8000
+---
+
 # Microsoft-Email-Manager
 
 Microsoft-Email-Manager 是由 Maishan Inc. 维护的 Microsoft 邮箱账户与邮件管理面板，提供 Web UI、批量导入、邮件检索、标签管理、API Key 管理和接口文档。
